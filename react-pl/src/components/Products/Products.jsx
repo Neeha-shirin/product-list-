@@ -22,7 +22,7 @@ const Products = () => {
   return (
     <div>
       <h1 className="bg-info text-danger" style={{ marginTop: '-80px' }}>
-        Products
+        DotNkey
       </h1>
       
       {items.map((item) => (
